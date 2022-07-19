@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "$project_path/venv/Scripts/python purgeComments.py"
+}
